@@ -11,6 +11,6 @@ VIrtual internship in cpp
 
 ![Galaxy Toolshed - Created Date](https://img.shields.io/galaxytoolshed/created-date/:repository/:owner)
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/:interval/:user/:[repo](https://github.com/Anikeshroy/CodSoft-Task))
+![GitHub commit activity](https://img.shields.io/github/commit-activity/:interval/:user/:CodSoft-Task)
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:@Anikesh97)
