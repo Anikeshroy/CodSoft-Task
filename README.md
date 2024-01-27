@@ -5,6 +5,9 @@ VIrtual internship in cpp
 | SNo | Task | Link |
 | ----------- | ----------- | ----------- |
 | 01 | Number Guessing Game | https://github.com/Anikeshroy/CodSoft-Task/blob/main/Number_Guessing_Game(Task%201)) |
-| 02 | Simple Calculator | 
+| 02 | Simple Calculator | Link |
+| 03 | STUDENT GRADING SYSTEM | Link |
+| 04 | SWORD COUNT | Link |
+| 05 | MOVIE TICKET BOOKING SYSTEM | Link |
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:@Anikesh97)
