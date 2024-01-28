@@ -12,6 +12,4 @@ VIrtual internship in cpp programming.
 
 - 📫 Reach me **anikeshroy62040@gmail.com**
 
-- 📄 Check out my resume [Resume](https://resume.io/r/htscIJqIf)
-
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:Anikesh97)
+- 📄 Check out my [Resume](https://resume.io/r/htscIJqIf)
