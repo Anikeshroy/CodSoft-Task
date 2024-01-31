@@ -1,0 +1,45 @@
+// Word Count from text file.
+#include <iostream>
+#include <fstream>
+using namespace std;
+int main()
+{
+    system("cls");
+    char file_name[40], ch, str[2000];
+    int total = 0, i = 0, total_word = 0;
+    ifstream fp;
+    cout << "Enter the Name of File : ";
+    cin >> file_name;
+    fp.open(file_name, ifstream::in);
+    if (!fp)
+    {
+        cout << "Unable to open File." << endl;
+        return 0;
+    }
+    while (fp >> noskipws >> ch)
+    {
+        str[total] = ch;
+        total++;
+    }
+    fp.close();
+    str[total] = '\0';
+    while (str[i] != '\0')
+    {
+        if (str[i] == '\n')
+        {
+            if (str[i + 1] != '\0' && str[i + 1] != ' ')
+                total_word++;
+            i++;
+        }
+        else if (str[i] != ' ')
+            i++;
+        else
+        {
+            if (str[i + 1] != '\0' && str[i + 1] != ' ')
+                total_word++;
+            i++;
+        }
+    }
+    cout << "Total Word = " << total_word << endl;
+    return 0;
+}
